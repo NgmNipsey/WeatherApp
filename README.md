@@ -37,7 +37,7 @@ To use in your local machine or for project:
         npm -v
         You should see the version numbers for both Node.js and npm.
     Clone the repo:
-        Use the [Link]((https://github.com/NgmNipsey/WeatherApp.git) to the project directory.
+        Use the link above to the project directory to git clone the project for your personal use.
     Initialize npm:
         Inside your project directory, run: npm init -y
         This will create a package.json file to manage your project’s dependencies.
